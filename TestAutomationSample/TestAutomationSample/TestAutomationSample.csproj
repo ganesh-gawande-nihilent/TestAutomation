@@ -170,7 +170,10 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Properties\PublishProfiles\Default.pubxml" />
+    <None Include="Properties\PublishProfiles\Dev.pubxml" />
+    <None Include="Properties\PublishProfiles\Production.pubxml" />
+    <None Include="Properties\PublishProfiles\Testing.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -196,6 +199,27 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Web.Dev.config" />
+    <Content Include="Web.Dev.Debug.config">
+      <DependentUpon>Web.Dev.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Dev.Release.config">
+      <DependentUpon>Web.Dev.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Testing.config" />
+    <Content Include="Web.Testing.Debug.config">
+      <DependentUpon>Web.Testing.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Testing.Release.config">
+      <DependentUpon>Web.Testing.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Production.config" />
+    <Content Include="Web.Production.Debug.config">
+      <DependentUpon>Web.Production.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Production.Release.config">
+      <DependentUpon>Web.Production.config</DependentUpon>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -224,7 +248,7 @@
   <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
     <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
   </Target>
-   <Target Name="GatherAllFilesToPublish">
+  <Target Name="GatherAllFilesToPublish">
   </Target>
   <ProjectExtensions>
     <VisualStudio>

@@ -44,3 +44,4 @@ C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\Te
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Release\TestAutomationSample.csproj.CoreCompileInputs.cache
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Release\TestAutomationSample.dll
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Release\TestAutomationSample.pdb
+C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Release\TestAutomationSample.csprojResolveAssemblyReference.cache
