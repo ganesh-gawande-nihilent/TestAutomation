@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationPublish</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Ganesh Work\ReleaseMangement</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
@@ -193,10 +193,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/16/2018 11:50:57</publishTime>
     </File>
     <File Include="Properties/PublishProfiles/FolderProfile.pubxml">
-      <publishTime>03/16/2018 14:27:36</publishTime>
+      <publishTime>03/16/2018 14:37:54</publishTime>
     </File>
     <File Include="Properties/PublishProfiles/FolderProfile.pubxml.user">
-      <publishTime>03/16/2018 14:27:44</publishTime>
+      <publishTime>03/16/2018 14:29:21</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>03/16/2018 11:51:12</publishTime>

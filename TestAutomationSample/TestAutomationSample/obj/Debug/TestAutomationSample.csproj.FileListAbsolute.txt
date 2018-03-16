@@ -41,7 +41,6 @@ C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\Te
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\bin\Microsoft.AI.WindowsServer.xml
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\bin\Microsoft.AI.Web.xml
-C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Debug\TestAutomationSample.csprojResolveAssemblyReference.cache
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Debug\TestAutomationSample.csproj.CoreCompileInputs.cache
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Debug\TestAutomationSample.dll
 C:\Ganesh Work\My projects\Git repos\Test Automation App\TestAutomationSample\TestAutomationSample\obj\Debug\TestAutomationSample.pdb
